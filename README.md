@@ -15,3 +15,9 @@ Patterns Estruturais:
 - Bridge
 - Composite
 - Decorator
+
+SOLID and GRASP:
+
+- DIP
+- OCP
+- Indirection
